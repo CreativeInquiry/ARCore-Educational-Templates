@@ -3,6 +3,8 @@
 ## About
 This repository contains a collection of simple template projects and tutorials for developing augmented reality (AR) Android apps using Unity and Google's ARCore technology. These materials are intended for students with introductory programming experience, and introductory familiarity with Unity. 
 
+**For a similar repository of ARKit templates and tutorials for Apple iOS devices, [please click here](https://github.com/CreativeInquiry/ARKit-Educational-Templates).**
+
 These projects and their documentation were developed in October 2019 by [Connie Ye](https://github.com/khanniie) ([@crabbage_](https://twitter.com/crabbage_)), with support from the [Frank-Ratchye STUDIO for Creative Inquiry](http://studioforcreativeinquiry), for undergraduate media arts courses taught by [Golan Levin](http://flong.com) at Carnegie Mellon University. Portions of these tutorials have been adapted from the ARCore site (Creative Commons Attribution 4.0 License), and the Github hosted code samples (Apache 2.0 License). We welcome your contributions and corrections!
 
 ## Table of Contents
